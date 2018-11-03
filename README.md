@@ -1,3 +1,3 @@
 # hello-world
 Aprendendo a usar git, sou um velho estudante.
-Linha escrita pelo VS.
+Linha escrita pelo Visual Studio.
