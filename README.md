@@ -1,3 +1,2 @@
 # hello-world
-Aprendendo a usar git
-Sou um velho estudante.
+Aprendendo a usar git, sou um velho estudante.
